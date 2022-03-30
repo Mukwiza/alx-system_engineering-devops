@@ -7,3 +7,4 @@
 7.creating directory into another directory
 8.to move file from one directory to another
 9.to delete file in directory
+10.to delete empty directory
