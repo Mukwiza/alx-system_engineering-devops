@@ -11,3 +11,5 @@
 11.to change diectory to previous one
 12.list all files in different directories
 13.to print type of the file
+14.to create symbolic link
+15.to copy html files
