@@ -5,3 +5,4 @@
 5.how to dispaly contents including hidden files starting with . in long format
 6.how to display current directory contents with user and IDs displayed numerically
 7.creating directory into another directory
+8.to move file from one directory to another
