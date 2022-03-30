@@ -6,3 +6,4 @@
 6.how to display current directory contents with user and IDs displayed numerically
 7.creating directory into another directory
 8.to move file from one directory to another
+9.to delete file in directory
