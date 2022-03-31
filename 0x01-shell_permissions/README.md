@@ -8,4 +8,5 @@
 7.to adds execution permission to everybody
 8.to set all permissions only for other users
 9.to set mode of the file
-10.to set mode of file the same as other file's mose
+10.to set mode of file the same as other file's mode
+11.adds execute permission to all subdirectories of the current directory for everybody.regular files should not be changed
