@@ -8,3 +8,4 @@
 7.to adds execution permission to everybody
 8.to set all permissions only for other users
 9.to set mode of the file
+10.to set mode of file the same as other file's mose
