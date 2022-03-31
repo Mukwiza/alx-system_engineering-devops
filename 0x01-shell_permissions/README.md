@@ -4,3 +4,4 @@
 3.to change file owner to the user
 4.create empty file
 5.to adds execute permission to file owner
+6.Multiple permissions
