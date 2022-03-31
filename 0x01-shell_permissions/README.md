@@ -5,3 +5,4 @@
 4.create empty file
 5.to adds execute permission to file owner
 6.Multiple permissions
+7.to adds execution permission to everybody
