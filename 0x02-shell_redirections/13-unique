@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "One line, one word" | uniq | sort
+sort | uniq 
