@@ -14,5 +14,5 @@ do
 		echo "good luck"
 	fi
 	(( i++ ))
-	
+
 done
