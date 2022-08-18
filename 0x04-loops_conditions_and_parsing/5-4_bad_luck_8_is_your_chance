@@ -14,6 +14,6 @@ do
 	then
 		echo "good luck"
 	fi
-	(( i++ ))
 
+	(( i++ ))
 done
