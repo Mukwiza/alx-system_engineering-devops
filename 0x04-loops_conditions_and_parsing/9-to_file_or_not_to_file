@@ -14,8 +14,7 @@ then
 			echo "school is a regular file"
 		fi
 
-	elif [ -s "school" ]
-	then
+	else
 		echo "school file is not empty"
 
 		if [ -f "school" ]
